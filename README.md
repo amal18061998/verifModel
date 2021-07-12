@@ -1,3 +1,3 @@
-# yolotinyv3_medmask_demo
+#VerifModel is a repo ,containd the steps to build a model with yolov4-tiny Darknet on Cgoogle colab 
 
-Helper repo to train tiny yolo v3 on custom data in google colaboratory notebook
+
